@@ -67,4 +67,4 @@ Even though I don’t own a 3D printer yet, I enjoy learning and watching the pr
 
 ## ⭐ Acknowledgment
 
-Inspired by my curiosity and passion for 3D printing and digital creativity.
+People who made me inspired for 3D printing and digital creativity.
